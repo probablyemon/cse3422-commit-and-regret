@@ -8,24 +8,24 @@ Every member writes code. Roles say who leads an area, not who does all of it.
 
 | Name | GitHub | Role(s) | Strength we can rely on | Something I want to learn |
 |---|---|---|---|---|
-| | @ | Team lead / Scrum master | | |
-| | @ | Backend lead | | |
-| | @ | Frontend lead | | |
-| | @ | Quality and DevOps lead | | |
+| Md. Rasel Mahmud Emon | @probablyemon | Team lead / Scrum master | Team coordination | Project management |
+| Tajrian Nur Diba | @tajrian-diba | Frontend lead | To be decided | Frontend development |
+| Esarullah21 | @Esarullah21 | Backend lead | To be decided | Backend development |
+| Shahriar Shihab | @shahriar252 | Quality and DevOps lead | To be decided | Software testing and DevOps |
 
 ## Communication
 
-- Main channel (e.g., a Messenger or Discord group): …
-- We reply to teammates within: … hours on weekdays
-- Decisions are recorded in: Jira comments, pull requests or ADRs (not only in chat)
-- Help from the instructor: through GitHub **Help request** issues
+- Main channel: Whatsapp group
+- We reply to teammates within: 12 hours on weekdays.
+- Decisions are recorded in: GitHub pull requests and Jira comments.
+- Help from the instructor: through GitHub **Help request** issues.
 
 ## Meeting rhythm
 
-- Sprint length: … (1 or 2 weeks; the Jira sprints follow it)
-- Weekly planning: day and time …, about 30 minutes, online or in person
-- Short check-ins: … (e.g., Monday and Thursday, 10 minutes)
-- Weekly status report in `reports/YYYY-MM-DD.md`, written by: … (rotates weekly)
+- Sprint length: 2 weeks.
+- Weekly planning: Friday at 10 PM, about 30 minutes, online.
+- Short check-ins: Monday and Wednesday through WhatsApp.
+- Weekly status report in `reports/YYYY-MM-DD.md`, written by a rotating team member.
 
 ## Definition of Done
 
@@ -54,8 +54,16 @@ Within the course policy:
 - Every member can explain every line they submit; anything you cannot explain is rewritten.
 - Never paste secrets, keys or personal data into an AI tool.
 
-Our extra rules: …
+Our extra rules:
+
+- AI may be used for brainstorming, learning, debugging, and improving documentation.
+- Every member must understand and verify AI-assisted suggestions before using them.
+- AI must not be used to complete assignments without understanding the concepts.
+- Team members must disclose significant AI assistance in their pull requests.
+- No confidential project information or credentials may be shared with AI tools.
 
 ## Signatures
 
-The author opens the pull request that adds this file; every other member approves it before it is merged. Date agreed: …
+The author opens the pull request that adds this file; every other member approves it before it is merged.
+
+Date agreed: 2026-11-14
